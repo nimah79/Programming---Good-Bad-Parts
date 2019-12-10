@@ -1,2 +1,2 @@
-# Programming---Good-Bad-Parts
+# Programming - Good & Bad Parts
 Slides of a short presentation
